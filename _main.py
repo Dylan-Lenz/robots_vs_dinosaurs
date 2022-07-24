@@ -15,7 +15,7 @@
 3-Commit-DID
     X4)Create Fleet and Herd classes 
         X(5pts)List of 3 Robots to battle against a list of 3 Dinosaurs.
-4-Commit
+4-Commit-DID
 
 (C)Fill out the methods for your battle logic in the:
     -Battlefield class
